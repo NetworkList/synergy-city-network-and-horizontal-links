@@ -1,5 +1,5 @@
 # Synergy-city-network-and-horizontal-links(accompanying data and code)
-This little repository offers data and code accompanying the
+This little repository offers data and code accompanying the manuscript of 'Synergy city networks and horizontal linkages of high-tech firms in China', which has been under reviewed and shared on the OSF
 
 The data is taken from the China Non-listed Enterprise Database (1998-2008). This database is administered by GTA Company and sourced from the National Bureau of Statistics of China.
 
