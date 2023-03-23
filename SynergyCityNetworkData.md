@@ -13,3 +13,20 @@ To run the code for the meso-scale structure of the subsector of 'Office and com
 cmp.m
 ```
 To inspect the networks, just take the file `cmp.tsv`
+[cmp.csv](https://github.com/ddshen3/synergy-city-network-and-horizontal-links/files/11050339/cmp.csv)
+
+To run the code for the meso-scale structure of the subsector of 'Technology hardware and equipment'(abbr.'ele'), just download the two datasets for matrix (matrix_ele.mat') and nodes (nodeele.mat), and run:
+
+```
+ele.m
+```
+To inspect the networks, just take the file `ele.tsv`
+[ele.csv](https://github.com/ddshen3/synergy-city-network-and-horizontal-links/files/11050765/ele.csv)
+
+To run the code for the meso-scale structure of the subsector of 'Pharmaceuticals and biotech'(abbr.'bio'), just download the two datasets for matrix (matrix_bio.mat') and nodes (nodebio.mat), and run:
+
+```
+bio.m
+```
+To inspect the networks, just take the file `bio.tsv`
+[bio.csv](https://github.com/ddshen3/synergy-city-network-and-horizontal-links/files/11050921/bio.csv)
